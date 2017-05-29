@@ -2995,17 +2995,7 @@
       }
     .pano-overlay-content p {
       opacity: 0;
-      left: -7%;
       height: 20px;
-      width: 500px;
-      -webkit-transition: 0.45s 1.3s;
-      -moz-transition: 0.45s 1.3s;
-      transition: 0.45s 1.3s;
-      -webkit-transform: translateX(140px) translateY(25px);
-      -moz-transform: translateX(140px) translateY(25px);
-      -ms-transform: translateX(140px) translateY(25px);
-      -o-transform: translateX(140px) translateY(25px);
-      transform: translateX(140px) translateY(25px);
       text-align: center;
       font-size: 0.85em;
       margin: 0; }
