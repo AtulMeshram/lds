@@ -2997,11 +2997,11 @@
       opacity: 0;
       height: 20px;
       text-align: center;
-      font-size: 0.85em;
+      font-size: 1.0em;
       margin: 0; }
 
       .pano-overlay-content h2 {
-        font-size: 1.1em;
+        font-size: 1.2em;
       }
 
       .pano-overlay-content h4 {
@@ -3010,7 +3010,7 @@
       }
 
       .pano-overlay-content  p  b {
-        font-size: 0.9em;
+        font-size: 1.0em;
         font-weight: bold;
       }
 
